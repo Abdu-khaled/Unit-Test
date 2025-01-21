@@ -1,6 +1,6 @@
 import unittest
 
-from fun1 import CarSpeed
+from speed import CarSpeed
 
 class CarSpeedTest(unittest.TestCase):
     def test_speed(self):
